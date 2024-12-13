@@ -9,5 +9,18 @@
         "name": "Tomasz Stopka"
     },
     "items": [
+        {
+            "id": "https://semurai.github.io/semurai/testow/",
+            "url": "https://semurai.github.io/semurai/testow/",
+            "title": "Testow",
+            "summary": "The standard Lorem Ipsum passage, used since the 1500s \"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "author": {
+                "name": "Tomasz Stopka"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-13T13:02:53+01:00",
+            "date_modified": "2024-12-13T13:02:53+01:00"
+        }
     ]
 }
