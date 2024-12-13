@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SEMURAIco",
+    "description": "",
+    "home_page_url": "https://semurai.github.io/semurai",
+    "feed_url": "https://semurai.github.io/semurai/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tomasz Stopka"
+    },
+    "items": [
+    ]
+}

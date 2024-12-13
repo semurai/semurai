@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://semurai.github.io/semurai/sitemap.xml
